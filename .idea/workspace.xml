@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68bc5bb7-8a9a-4fd5-b4ad-366abbd27453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/about/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/home/appHome.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/home/homeBottom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/home/homeTop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/home/item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/news/news.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/news/sport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/news/sportDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/news/tech.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/app/news/techDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/appHome.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/appLeft.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/appLeft.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/homeBottom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/homeTop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="68bc5bb7-8a9a-4fd5-b4ad-366abbd27453" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +71,7 @@
       <workItem from="1578361966163" duration="8704000" />
       <workItem from="1578385156023" duration="454000" />
       <workItem from="1578387143542" duration="15978000" />
-      <workItem from="1578555123986" duration="607000" />
+      <workItem from="1578555123986" duration="840000" />
     </task>
     <servers />
   </component>
