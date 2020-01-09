@@ -2,15 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68bc5bb7-8a9a-4fd5-b4ad-366abbd27453" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/about/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/home/appHome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/home/homeBottom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/home/homeTop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/home/item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/news/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/news/sport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/news/sportDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/news/tech.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/app/news/techDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/appHome.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/appHome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/appLeaf.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/appLeft.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/homeBottom.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/homeBottom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/homeTop.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/homeTop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/appHome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/appLeft.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/appLeft.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/homeBottom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/homeTop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -22,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -30,12 +45,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1W0Bgk4bOlXcLaH50eDsgoIXElv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -47,7 +67,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -75,17 +95,32 @@
       <workItem from="1578277218327" duration="3701000" />
       <workItem from="1578298315795" duration="2310000" />
       <workItem from="1578361966163" duration="8704000" />
+      <workItem from="1578385156023" duration="454000" />
+      <workItem from="1578387143542" duration="15978000" />
+      <workItem from="1578555123986" duration="607000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="169" y="50" key="SettingsEditor" timestamp="1578363997440">
-      <screen x="37" y="23" width="1243" height="777" />
+    <state x="144" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578385236089">
+      <screen x="36" y="23" width="1244" height="777" />
     </state>
+    <state x="144" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/36.23.1244.777/-215.-1057.1920.1057@36.23.1244.777" timestamp="1578385236089" />
+    <state x="168" y="50" key="SettingsEditor" timestamp="1578448200499">
+      <screen x="36" y="23" width="1244" height="777" />
+    </state>
+    <state x="168" y="50" key="SettingsEditor/36.23.1244.777/-215.-1057.1920.1057@36.23.1244.777" timestamp="1578448200499" />
     <state x="169" y="50" key="SettingsEditor/37.23.1243.777/-215.-1057.1920.1057@37.23.1243.777" timestamp="1578363997440" />
+    <state x="462" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578385199502">
+      <screen x="36" y="23" width="1244" height="777" />
+    </state>
+    <state x="462" y="336" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/36.23.1244.777/-215.-1057.1920.1057@36.23.1244.777" timestamp="1578385199502" />
     <state x="335" y="57" width="689" height="708" key="find.popup" timestamp="1578382664301">
       <screen x="37" y="23" width="1243" height="777" />
     </state>
